@@ -8,15 +8,17 @@ I've used a base bootstrap theme (linked below) and modified the site to fit my 
 
 
 
-
-### Website based on below theme
 <hr/>
+### Website based on below theme
+
 
 [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)
 
 * https://github.com/davidtmiller
 
-## License
+
 <hr/>
+## License
+
 
 [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
