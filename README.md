@@ -6,7 +6,8 @@ I've used a base bootstrap theme (linked below) and modified the site to fit my 
 
 
 
-<hr/>
+
+
 
 ### Website based on below theme
 <hr/>
