@@ -19,7 +19,8 @@ I've used a base bootstrap theme (linked below) and modified the site to fit my 
 
 
 <hr/>
-## License
+
+### License
 
 
 [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
